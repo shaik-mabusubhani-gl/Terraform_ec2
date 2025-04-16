@@ -1,4 +1,4 @@
-# How to manage multiple environments with terraform with the use of modules?
+###  How to manage multiple environments with terraform with the use of modules? ###
 
 ### What is Terraform?
 
@@ -381,6 +381,7 @@ Run below command one by one from each folder i.e. `stg`, `dev` & `prod` and you
 ![2](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/2.png)
 
 ![3](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/3.png)
+
 
 
 
